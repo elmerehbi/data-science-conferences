@@ -29,11 +29,14 @@ Contribution is greatly appreciated. Please link to the main website, if exists,
 
 
 ## Science Computing Conferences
- * 
+* [PyData Conference](http://pydata.org/) [(@PyDataConf)](https://twitter.com/PyDataConf)
+* [SciPy Conference](https://conference.scipy.org/) [(@SciPyConf)](https://twitter.com/SciPyConf)
+* [EuroSciPy Conference](https://www.euroscipy.org/) [(@EuroSciPy)](https://twitter.com/EuroSciPy)
+
 
 ## Conferences of Relevant Languages
  * [PyCon](http://pycon.blogspot.com/)
- * [R conferences; mainly useR!](https://www.r-project.org/conferences.html)
+ * [R conferences (useR!)](https://www.r-project.org/conferences.html)
 
 ## Relevant Links
 * [Exhaustive list by KDnuggets](http://www.kdnuggets.com/meetings/)
