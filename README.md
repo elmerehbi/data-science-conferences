@@ -23,17 +23,23 @@ Contribution is greatly appreciated. Please link to the main website, if exists,
 
 
 ## Python-specific Conferences
-* [PyData Conference](http://pydata.org/) [@PyDataConf](https://twitter.com/PyDataConf)
-* [SciPy Conference](https://conference.scipy.org/) [@SciPyConf](https://twitter.com/SciPyConf)
-* [EuroSciPy Conference](https://www.euroscipy.org/) [@EuroSciPy](https://twitter.com/EuroSciPy)
+* [PyData Conference](http://pydata.org/) [(@PyDataConf)](https://twitter.com/PyDataConf)
+* [SciPy Conference](https://conference.scipy.org/) [(@SciPyConf)](https://twitter.com/SciPyConf)
+* [EuroSciPy Conference](https://www.euroscipy.org/) [(@EuroSciPy)](https://twitter.com/EuroSciPy)
 
 
 ## Science Computing Conferences
+ * 
 
+## Conferences of Relevant Languages
+ * [PyCon](http://pycon.blogspot.com/)
+ * [R conferences; mainly useR!](https://www.r-project.org/conferences.html)
 
 ## Relevant Links
 * [Exhaustive list by KDnuggets](http://www.kdnuggets.com/meetings/)
-* Conferences Search Engine
+* Conferences listings
+  - [COMS Calendar of Upcoming Scientific Conferences](www.conference-service.com/conferences/conference-search.html)
+  - [Conference Series](http://www.conferenceseries.com/)
   - [All Conferences](http://www.allconferences.com/search/index/viewCategorySearch:%22data%20science%22/Category__parent_id:1/showLastConference:1/)
   - [confsearch](http://confsearch.org/confsearch/)
 * [DataTau](http://datatau.com)
